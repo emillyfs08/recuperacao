@@ -1,0 +1,16 @@
+body{
+    background-color: deeppink;
+}
+h1{
+    font: size 40px;  
+    margin-top: 20px;
+    margin-left: 800px ;
+}
+p{
+    text-align:justify;
+}
+img{
+    width: 250px;
+    height: 250px;
+    margin: 60px;
+}
