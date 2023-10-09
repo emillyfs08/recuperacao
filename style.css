@@ -14,3 +14,21 @@ img{
     height: 250px;
     margin: 60px;
 }
+.cabeçalho{
+    background-color: hotpink;
+    display: flex;
+}
+.logocabecalho{
+    width: 100px;
+}
+.lista_cabecalho{
+    display: flex;
+    margin-left: 500px;
+}
+.item_lista_cabecalho{
+    color: mediumslateblue;
+    list-style: none;
+    text-transform: uppercase;
+    font-size: 25px;
+    padding: 5px;
+}
